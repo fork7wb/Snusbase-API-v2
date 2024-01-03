@@ -2,9 +2,9 @@
 
 Vous trouverez ci-dessous la documentation de tous les points de terminaison d’API privée. Vous pouvez également utiliser des outils pré-écrits tels que :
 
-- [h8mail]([https://github.com/khast3x/h8mail]) - Outil de chasse aux violations de l’OSINT et du mot de passe par e-mail, localement ou à l’aide de services premium
-- [pure_javascript.html]([lien_vers_autre_projet](https://github.com/fork7wb/Snusbase-API-v2/blob/main/pure_javascript.html)https://github.com/fork7wb/Snusbase-API-v2/blob/main/pure_javascript.html]) - Un exemple purement javascript de la façon d’interagir avec l’API Snusbase et toutes ses fonctionnalités
-- [api_curl.php]([https://github.com/fork7wb/Snusbase-API-v2/blob/main/api_curl.php]) - Une fonction PHP qui utilise php-curl pour interagir avec l’API Snusbase et toutes ses fonctionnalités
+- [h8mail](https://github.com/khast3x/h8mail) - Outil de chasse aux violations de l’OSINT et du mot de passe par e-mail, localement ou à l’aide de services premium
+- [pure_javascript.html](lien_vers_autre_projet](https://github.com/fork7wb/Snusbase-API-v2/blob/main/pure_javascript.html)https://github.com/fork7wb/Snusbase-API-v2/blob/main/pure_javascript.html) - Un exemple purement javascript de la façon d’interagir avec l’API Snusbase et toutes ses fonctionnalités
+- [api_curl.php](https://github.com/fork7wb/Snusbase-API-v2/blob/main/api_curl.php) - Une fonction PHP qui utilise php-curl pour interagir avec l’API Snusbase et toutes ses fonctionnalités
 
 ### Champs
 Vous pouvez actuellement effectuer une recherche dans 6 champs (« nom d’utilisateur », « e-mail », « lastip », « hachage », « mot de passe » et « nom »).
